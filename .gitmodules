@@ -1,0 +1,3 @@
+[submodule "nav_src/LLMs/llama"]
+	path = nav_src/LLMs/llama
+	url = https://github.com/facebookresearch/llama.git
