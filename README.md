@@ -3,11 +3,11 @@
 <h1>🎇NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models</h1>
 
 <div>
-    <a href='https://github.com/GengzeZhou' target='_blank'>Gengze Zhou<sup>🍕</sup><sup>🍔</sup></a>;
+    <a href='https://github.com/GengzeZhou' target='_blank'>Gengze Zhou<sup>🍕</sup></a>;
     <a href='http://www.yiconghong.me' target='_blank'>Yicong Hong<sup>🌭</sup></a>;
-    <a href='http://www.qi-wu.me' target='_blank'>Qi Wu<sup>🍕</sup><sup>🍔</sup></a>
+    <a href='http://www.qi-wu.me' target='_blank'>Qi Wu<sup>🍕</sup></a>
 </div>
-<sup>🍕</sup>The University of Adelaide <sup>🍔</sup>Australian Institude for Machine Learning <sup>🌭</sup>The Australian National University
+<sup>🍕</sup>Australian Institude for Machine Learning, The University of Adelaide <sup>🌭</sup>The Australian National University
 
 <br>
 
